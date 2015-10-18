@@ -29,7 +29,7 @@
     },
     "addressPrefix": {
       "type": "string",
-      "defaultValue": "10.0.246.0/24"
+      "defaultValue": "10.0.247.0/24"
     },
     "subnetName": {
       "type": "string",
